@@ -1,4 +1,4 @@
-/* pages/_app.js */
+/* pages_app.js */
 import '../styles/globals.css'
 import Link from 'next/link'
 
